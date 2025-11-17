@@ -16,6 +16,9 @@ Python and Visual Component Tool
 <img width="1144" height="412" alt="image" src="https://github.com/user-attachments/assets/6bf357bd-7ba2-4908-8c93-ef74e4747a4f" />
 
 # Program
+Name: Lohini S
+Register number: 25015038
+slot name:3P1-1
 ```
 import numpy as np
 import math
